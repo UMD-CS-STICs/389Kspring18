@@ -152,6 +152,7 @@ But these have to be links, so we need a link tag, aka an anchor tag:
  <ul>
     <li>
         <a href="http://google.com">Home</a>
+    </li>
     <li>
         <a href="http://facebook.com">About</a>
     </li>
@@ -188,10 +189,11 @@ Link tags lets you include CSS from an external file (`.css` file called a
 ```
 
 href: URL of CSS stylesheet
+
 rel: stylesheet (relation)
 
 We use `normalize.css` simply because it is a css file that renders everything
-consistently with modern standards. Some tags have styling be default that we do
+consistently with modern standards. Some tags have styling by default that we do
 not want.
 
 ### Center header
@@ -394,7 +396,7 @@ in and try resizing the browser now.
         font-size: 36px;
     }
     li {
-        display: block; /* Makes them next to each other */
+        display: block; /* Makes them on top of each other */
         padding: 7px 0 7px 0; /* Change the padding to top and bottom now */
     }
     a {
