@@ -152,6 +152,7 @@ But these have to be links, so we need a link tag, aka an anchor tag:
  <ul>
     <li>
         <a href="http://google.com">Home</a>
+    </li>
     <li>
         <a href="http://facebook.com">About</a>
     </li>
