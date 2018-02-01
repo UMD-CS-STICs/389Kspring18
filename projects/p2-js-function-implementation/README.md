@@ -48,13 +48,13 @@ In `index.js`, you will have to implement the following functions.
     ```
     {
         'hello': 'world',
-        'ishaan': 'parikh',
-        'sashi': 'thupu',
+        'timothy': 'chen',
+        'allen': 'cheng',
         2:'hi',
         3: 51
     }
 
-    -> 4.0
+    -> 3.6
     ```
 5. `applyFunToArray(str, fun)`
 
