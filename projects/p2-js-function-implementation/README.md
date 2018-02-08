@@ -78,7 +78,7 @@ In `index.js`, you will have to implement the following functions.
 
 ## Testing
 
-Run `npm install mocha -g` before any testing. If you do not have node installed, please follow [this](./nodejs_setup.md).
+Run `npm install mocha -g` before any testing. If you get an error, try running as root with `sudo npm install mocha -g`. If you do not have node installed, please follow [this](./nodejs_setup.md).
 To run public tests, navigate into the `test/` directory and run `mocha publictests.js`. To create your own tests, edit the `studenttests.js` file and run `mocha studenttests.js`.
 
 ## Submission
