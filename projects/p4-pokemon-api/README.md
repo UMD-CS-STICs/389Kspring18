@@ -10,8 +10,6 @@ In this project, you will create:
 1. A website that allows to you visually explore Pokemon
 2. An API that will allow you to query different Pokemon.
 
-A demo of this project can be found at: [Demo](https://pokemon-api-389k.herokuapp.com/)
-
 ## Objectives
 
 This project will give you practice with using Express.js, and how to use it to create both a website and API. You will also practice JSON parsing.
