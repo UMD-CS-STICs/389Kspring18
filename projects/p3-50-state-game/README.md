@@ -18,8 +18,9 @@ Requirements must be followed and failure to follow them may result in a 0.
 
 ## Specifications:
 
-- **[5]** Input field to enter states. Input MUST be case insensitive.
+- **[2]** Input field to enter states.
     + **[3]** State should be submitted when full state is typed. No need to hit enter.
+    + **[3]** Input is case insensitive.
 - **[10]** Display a continuously updated list of states the user has inputed correctly.
 - **[10]** Timer set to 20 seconds displayed prominently and counts down every second. (Note: We know you are going to want to test with more than 20 seconds, but please make sure that it is 20 seconds when you submit. This will make grading easier.)
 - When timer ends:
