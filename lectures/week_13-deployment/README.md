@@ -13,7 +13,7 @@ To get started, install both the desktop client and the command line application
 
 **Command Line Client**
 
-1. Run `sudo npm install now -g` to install
+1. Run `sudo npm install now -g` to install. If that doesn't work, try running `sudo npm install now -g --unsafe-perm`.
 2. Run `now --login` and authenticate yourself using the same email.
 
 
