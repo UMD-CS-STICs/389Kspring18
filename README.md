@@ -14,14 +14,14 @@ application.
 - **Prerequisites**: C- or better in CMSC216 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
-- **Lecture Time**: Fridays, 1-1:50PM
-- **Location**: CSI 2118
+- **Lecture Time**: Fridays, 2-2:50PM
+- **Location**: EGR 2154
 - **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Timothy Chen](https://www.linkedin.com/in/timothychen01)
-and [Allen Cheng](https://www.linkedin.com/in/allen-cheng-6a40388a/)
+- **Course Facilitators**: [Benny Cheng](https://www.linkedin.com/in/benny-cheng-787159115/)
+and [Chirag Shankar](https://www.linkedin.com/in/chirag-shankar/)
 - **Faculty Advisor**: [John Dickerson](http://jpdickerson.com/)
-- **Syllabus Last Updated**: January 19, 2018
+- **Syllabus Last Updated**: May 15 2018
 
 ## Topics Covered
 - HTML and CSS
@@ -108,9 +108,9 @@ Instructor:
 
 TAs:
 
-[Timothy Chen](http://timothychen.me/) - tchen112@terpmail.umd.edu
+[Benny Cheng] - bcheng1996@gmail.com
 
-[Allen Cheng](http://allencheng.me/) - ac@allencheng.me
+[Chirag Shankar] - chishankar@gmail.com
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available
